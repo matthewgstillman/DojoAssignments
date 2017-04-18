@@ -1,0 +1,73 @@
+MacBook-Pro-4:~ mattstillman$ cd desktop
+MacBook-Pro-4:desktop mattstillman$ mkdir DojoAssignments
+MacBook-Pro-4:desktop mattstillman$ cd DojoAssignments
+MacBook-Pro-4:DojoAssignments mattstillman$ mkdir WebFundamentals Python MEAN Ruby iOS netCORE
+MacBook-Pro-4:DojoAssignments mattstillman$ cd WebFundamentals
+MacBook-Pro-4:WebFundamentals mattstillman$ touch about.txt
+MacBook-Pro-4:WebFundamentals mattstillman$ cd ..
+MacBook-Pro-4:DojoAssignments mattstillman$ cd Python
+MacBook-Pro-4:Python mattstillman$ touch about.txt
+MacBook-Pro-4:Python mattstillman$ cd ..
+MacBook-Pro-4:DojoAssignments mattstillman$ cd MEAN
+MacBook-Pro-4:MEAN mattstillman$ touch about.txt
+MacBook-Pro-4:MEAN mattstillman$ cd ..
+MacBook-Pro-4:DojoAssignments mattstillman$ cd Ruby
+MacBook-Pro-4:Ruby mattstillman$ touch about.txt
+MacBook-Pro-4:Ruby mattstillman$ cd ..
+MacBook-Pro-4:DojoAssignments mattstillman$ cd iOS
+MacBook-Pro-4:iOS mattstillman$ touch about.txt
+MacBook-Pro-4:iOS mattstillman$ cd ..
+MacBook-Pro-4:DojoAssignments mattstillman$ cd netCORE
+MacBook-Pro-4:netCORE mattstillman$ touch about.txt
+MacBook-Pro-4:netCORE mattstillman$ cd ..
+MacBook-Pro-4:DojoAssignments mattstillman$ cd WebFundamentals
+MacBook-Pro-4:WebFundamentals mattstillman$ mkdir Git HTML CSS Javascript
+MacBook-Pro-4:WebFundamentals mattstillman$ cd Git
+MacBook-Pro-4:Git mattstillman$ touch about.txt
+MacBook-Pro-4:Git mattstillman$ cd ..
+MacBook-Pro-4:WebFundamentals mattstillman$ cd HTML
+MacBook-Pro-4:HTML mattstillman$ touch about.txt
+MacBook-Pro-4:HTML mattstillman$ cd ..
+MacBook-Pro-4:WebFundamentals mattstillman$ cd CSS
+MacBook-Pro-4:CSS mattstillman$ touch about.txt
+MacBook-Pro-4:CSS mattstillman$ cd ..
+MacBook-Pro-4:WebFundamentals mattstillman$ cd Javascript
+MacBook-Pro-4:Javascript mattstillman$ touch about.txt
+MacBook-Pro-4:Javascript mattstillman$ cd ..
+MacBook-Pro-4:WebFundamentals mattstillman$ cd HTML
+MacBook-Pro-4:HTML mattstillman$ touch indentation.html
+MacBook-Pro-4:HTML mattstillman$ cd ..
+MacBook-Pro-4:WebFundamentals mattstillman$ cd ..
+MacBook-Pro-4:DojoAssignments mattstillman$ ls -R
+MEAN		Python		Ruby		WebFundamentals	iOS		netCORE
+
+./MEAN:
+about.txt
+
+./Python:
+about.txt
+
+./Ruby:
+about.txt
+
+./WebFundamentals:
+CSS		Git		HTML		Javascript	about.txt
+
+./WebFundamentals/CSS:
+about.txt
+
+./WebFundamentals/Git:
+about.txt
+
+./WebFundamentals/HTML:
+about.txt		indentation.html
+
+./WebFundamentals/Javascript:
+about.txt
+
+./iOS:
+about.txt
+
+./netCORE:
+about.txt
+MacBook-Pro-4:DojoAssignments mattstillman$ 
